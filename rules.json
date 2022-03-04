@@ -1,0 +1,44 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "DISCLAIMER",
+      "description": "By joining and logging into Aesthetic Gaane's Discord Server, you are agreeing to the terms listed in [Discord Community Guidelines](https://discord.com/guidelines) and [Discord Terms of Service](https://discord.com/terms) . Neither Discord nor Aesthetic Gaane are liable for users content.",
+      "color": 16742777,
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/attachments/948590001631948871/949154307872288880/RoundPhoto_Nov152021_203739.png"
+      }
+    },
+    {
+      "title": "GENERAL RULES",
+      "description": "1.1. Treat all members with respect.\n1.2. Harassment, abuse, hate speech or any kind of discriminatory speech will not be tolerated.\n1.3. Do not in any way intentionally offend any member in the Discord server.\n1.4. Racial or offensive slurs will not be tolerated.\n1.5. Tagging a member/staff member without reason will result in a warning.\n1.6. Revealing private information about any individual; is a zero tolerance rule.\n1.7. Do not publicly accuse other users/players of misconduct.\n1.8. No backseat modding.\n1.9. No talking about topics related to religion or politics.\n1.10. No words in other language other than Hinglish / English will be allowed. Small words for teaching purposes will be allowed but excessive use of this permit will lead to BAN\n1.11. We welcome constructive criticism but have zero tolerance for aggressive or entitled demands.\n1.12. Intentional toxic behavior is not allowed.",
+      "color": 16745604
+    },
+    {
+      "title": "ACCOUNT RULES",
+      "description": "2.1. Anyone found with multiple accounts will get all the alternatives, as well as the original account, banned.\n2.2. For you to get an exception for more than one account on the server, you'll have to contact a Discord Admin for permission.\n2.3. Once an account ban is set, you're banned and not welcomed back until you properly appeal to the staff member that issued the punishment, and it gets approved.\n2.4. If you have any doubts about a staff member's decision, you are free to create a ticket and have another staff member review it.\n2.5. Offensive/NSFW usernames or avatars are not allowed and will result in a warning if it remains unchanged.\n2.6. Conducting any kind of real-world economic activity on this server is strictly prohibited, and may result in the account responsible getting terminated.",
+      "color": 16423321
+    },
+    {
+      "title": "MALICIOUS ACTIVITY RULES",
+      "description": "3.1. Posting any content related to piracy, cheats, cracks, exploits or any kind of copyright breaching materials is forbidden.\n3.2. Any malicious activity toward the server or any member is forbidden.",
+      "color": 16754085
+    },
+    {
+      "title": "ADVERTISEMENT RULES",
+      "description": "4.1. You're not allowed to advertise your content (eg. youtube, twitch or other content) anywhere within the server or in DMs.\n4.2. Staff members reserve the right to remove any kind of content or advertisement that's deemed excessive or inappropriate.\n4.3. If you wish to advertise a big project, such as a giveaway, a charity, etc. Please create a ticket for a staff members approval.",
+      "color": 16757426
+    },
+    {
+      "title": "DISCORD BOT RULES",
+      "description": "5.1. Bot commands are only to be used in their specified channels.\n5.2. Staff members reserve the right to use bot commands anywhere needed.\n5.3. Any form of abuse of the bots is forbidden.\n5.4. Do not spam in channels to gain experience for the ranking system.\n5.5. Userbots are strictly prohibited and will result in an instant ban.",
+      "color": 16759739,
+      "footer": {
+        "text": "© 2022 Aesthetic Gaane",
+        "icon_url": "https://cdn.discordapp.com/attachments/948590001631948871/949154307872288880/RoundPhoto_Nov152021_203739.png"
+      }
+    }
+  ],
+  "username": "Aesthetic Gaane",
+  "avatar_url": "https://cdn.discordapp.com/attachments/948590001631948871/949154307872288880/RoundPhoto_Nov152021_203739.png"
+}
